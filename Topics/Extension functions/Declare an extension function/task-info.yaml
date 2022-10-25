@@ -18,6 +18,11 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6624#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 24 Oct 2022 12:56:27 UTC
 record: -1
+selected_options:
+- 1
 local_check: false

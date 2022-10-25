@@ -516,6 +516,29 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/8/stages/49/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/7689#comment
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    After guessing right there should be &quot;Congratulations&quot; word printed.
+
+    Please find below the output of your program during this failed test.
+    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
+
+    ---
+
+    How many mines do you want on the field?
+    &gt; 1
+    .........
+    .......11
+    .......1X
+    .......11
+    .........
+    .........
+    .........
+    .........
+    .........
+  time: Tue, 25 Oct 2022 08:12:57 UTC
 record: -1

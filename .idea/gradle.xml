@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -18,6 +19,12 @@
             <option value="$PROJECT_DIR$/Minesweeper/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Minesweeper/task/build/test-results" />
             <option value="$PROJECT_DIR$/Minesweeper/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Declare an extension function" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Definition" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Last digit" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Overloading" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
